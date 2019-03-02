@@ -9,6 +9,6 @@ System.out.println("\n Enter fahrenheit value : ");
 f = sc.nextFloat();
 c = (f-32)*5/9;
 System.out.print("\n Celsius value is : "+c);
-//kk//
+
     }
 }
