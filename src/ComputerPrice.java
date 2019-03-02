@@ -13,6 +13,6 @@ public class ComputerPrice {
         int reasult = (ram+hdd+pg+proc)*23/100;
 
         System.out.print(reasult);
-// write
+// write nnnnnnn
     }
 }
