@@ -1,3 +1,5 @@
+package com.computerprice;
+
 public class ComputerPrice {
     public static void main(String[] args) {
 

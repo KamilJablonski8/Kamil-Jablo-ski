@@ -1,3 +1,7 @@
+package com.helloworld;
+
+import com.company.Car;
+
 public class HelloWorldApp {
     public static void main(String[] args) {
 

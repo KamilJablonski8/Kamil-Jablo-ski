@@ -1,3 +1,5 @@
+package com.company;
+
 public class Car {
 
     private String brand;
@@ -6,7 +8,7 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "com.company.Car{" +
                 "brand='" + brand + '\'' +
                 ", color='" + color + '\'' +
                 ", speed='" + speed + '\'' +
@@ -15,7 +17,7 @@ public class Car {
 
 
 
-    Car(String brand, String color, String speed) {
+    public Car(String brand, String color, String speed) {
         this.brand = brand;
         this.color = color;
         this.speed = speed;

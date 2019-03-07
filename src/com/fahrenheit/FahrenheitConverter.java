@@ -1,3 +1,5 @@
+package com.fahrenheit;
+
 import java.util.Scanner;
 
 public class FahrenheitConverter {
