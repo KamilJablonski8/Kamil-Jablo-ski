@@ -1,7 +1,11 @@
 package com.coinpo;
 
 public class Entertaiment {
-    String radio;
-
+    public void radioOn(){
+        System.out.println("Radio is ON! ");
+    }
+    public  void radioOff(){
+    System.out.println("Radio is OFF!");
+}
 
 }

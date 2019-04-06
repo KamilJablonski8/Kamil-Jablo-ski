@@ -36,6 +36,7 @@ public class Samochod {
         System.out.println(stan);
         System.out.println(liczbaOsobWAucie);
         System.out.println(nazwaAuta);
+        System.out.println(maxBak - obecnyBAK);
 
     }
 
@@ -94,6 +95,7 @@ public class Samochod {
         autoKamila.dodaj();
         autoKamila.dodaj();
         autoKamila.wlaczAuto();
+        autoKamila.printVariables();
 
 
 
